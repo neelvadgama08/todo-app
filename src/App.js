@@ -5,7 +5,7 @@ import TodoList from "./components/TodoList";
 import TotalCompleteTodo from "./components/TotalCompleteTodo";
 
 export const App = () => {
-  console.log('Test log 123e2e1fssfd');
+  console.log('Test log 123e2e1fs121sfd');
   const options = {
     weekday: "long",
     year: "numeric",
